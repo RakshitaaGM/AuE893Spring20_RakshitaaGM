@@ -2,4 +2,4 @@
 source_root_dir = "/home/rakshitaagm/git_ws/AuE893Spring20_RakshitaaGM/catkin_ws/src"
 whitelisted_packages = "".split(';') if "" != "" else []
 blacklisted_packages = "".split(';') if "" != "" else []
-underlay_workspaces = "/opt/ros/kinetic".split(';') if "/opt/ros/kinetic" != "" else []
+underlay_workspaces = "/home/rakshitaagm/git_ws/AuE893Spring20_RakshitaaGM/catkin_ws/devel;/home/rakshitaagm/catkin_ws/devel;/opt/ros/kinetic".split(';') if "/home/rakshitaagm/git_ws/AuE893Spring20_RakshitaaGM/catkin_ws/devel;/home/rakshitaagm/catkin_ws/devel;/opt/ros/kinetic" != "" else []
