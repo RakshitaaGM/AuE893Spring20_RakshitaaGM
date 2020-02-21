@@ -4,4 +4,8 @@ The launch file made for Part 1 of the assignment requires requires input from t
 
 Part2
 The launch file does not require any input from the user. The turtlebot3_wall.world was created and is present in the world folder. The scripts folder contains the python script which is used for carrying out the task. The lidar scans all the values from 0 to 360 degrees with zero starting from the start position of the turtlebot. These values are in the /scan topic from which it is subscribed. To get the accurate distance, the distance value measured by the lidar in a small window of 10 degrees to the left and right of the 0 degree(center value is taken and mean was found. If the distance value was found to be less than 0.5, the velocity of the turtlebot was set 0 by publishing the same to \cmd _vel topic.
+Contributions made by each team member:
+Part1 - Launch files, video, README.md file -Rakshitaa Geetha Mohan and Rushikesh Kharade
+Part 2 - Wall and launch file- Adithya Suresh
+         Python code - Avinash Pallela and Nicholas Yang
 
