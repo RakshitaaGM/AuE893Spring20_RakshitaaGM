@@ -24,7 +24,7 @@ Code Implementation: The leg tracking part was performed using the functions bot
 Task 4: Code integration
 Contributors: Rakshitaa Geetha Mohan and Adithya Suresh
 Code Implementation: All the required nodes for the tasks performed above are initialized in the beginning and they will be running simultaneously. Triggers were used to switch between the different functions. For switching the function from wall following code to Line following, an April Tag has been placed in the world. As the April Tag was detected as a person (because of low accuracy detection of TinyYOLO), we could not differentiate between the actual person and the April Tag. But, when the bot reaches the actual person, it identifies both the legs as two persons. This was used as the trigger for leg tracking function. 
-The pictures of first and second triggers are present in the 'Pctures' folder
+The pictures of first and second triggers are present in the 'Pictures' folder
 
 
 The final video is present in 'videos' folder
