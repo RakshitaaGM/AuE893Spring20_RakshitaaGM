@@ -3,9 +3,9 @@ AuE893 Final Project Gazebo Model
 Important notes:
 1)The launch file is in auefinals -> turtlebot3_auefinals -> launch
 2)The launch file includes the launch of hector SLAM mapping. THe hectaor SLAM package must also be installed for this to work.
-3)To run this package, the dependency packages must be installed : 1)person_sim 2)turtle_3d 3)People_detection package 4)gazebo_apriltag
+3)To run this package, the dependency packages must be installed : 1)person_sim 2)turtle_3d 3)People_detection package 4)gazebo_apriltag 5)darknet_ros
 4)Since the trigger for each of the functional block depends on TinyYOLO, the results are perfect when the FPS is around 1 - 1.8 FPS
-5)
+5)To run : roslaunch turtlebot3_auefinals turtlebot3_autonomy_final.launch
 
 
 Task 1: Wall following and Obstacle avoidance
