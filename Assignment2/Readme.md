@@ -19,9 +19,8 @@ Square_closedloop.py
 
 This python script makes the turtle (simulator) move in a square but it keeps on checking whether the control is able to achieve this target
 using a PID controller. This was implemented using two while loops which checks separately whether the displacement and angular orientation is within
-the required limits. Inside the while loop (for both angular orientation and dsiplacement) a velocity is assigned with a gain multiplied to it. The  current angle difference as well as the 
-displacement gets updated before the end of the loop. If the while condition is satisfied the control moves to the next task.
+the required limits. Inside the while loop (for both angular orientation and dsiplacement) a velocity is assigned with a gain multiplied to it. The  current angle difference as well as the displacement gets updated before the end of the loop. If the while condition is satisfied the control moves to the next task.
 
-Screenshot:/home/rakshitaagm/git_ws/AuE893Spring20_RakshitaaGM/catkin_ws/square_Closedloop.png
+![image](https://user-images.githubusercontent.com/59737146/118004743-b8bdd380-b317-11eb-891a-99b59e79c360.png)
 
 
