@@ -3,7 +3,7 @@ Name:Rakshitaa Geetha Mohan
 Move.py
 
 This python script makes the turtle (simulator) move in a circle. The linear and angular velocities used are 2 and 1.5 respectively. 
-Screenshot: /home/rakshitaagm/git_ws/AuE893Spring20_RakshitaaGM/catkin_ws/move.png
+![image](https://user-images.githubusercontent.com/59737146/118004315-595fc380-b317-11eb-9bee-270528be587f.png)
 
 Square.py
 
