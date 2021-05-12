@@ -1,8 +1,6 @@
 Since the file was huge, I divided the submission files into 3 parts, Please find: 1) Assignment5.7z which contains the codes and scripts 2)Assignment5_dependencies.7z - for dependencies 3)Assignment5_videos_and_readme
 Part 1: Line Following
 
-Coded by: Adithya Suresh, Rushikesh Kharade, Nicholas Yang
-
 There are two files, one for running the bot in simulation world and the other for running the turtlebot in real world
 
 Implementation:
@@ -12,7 +10,6 @@ In real world ,the yellow line in simulation world was not used. Instead A4 shee
 
 Part 2 : Apriltag Detection 
 
-Coded by: Rakshitaa Geetha Mohan and Avinash Pallela
 
 Implementation:
 
