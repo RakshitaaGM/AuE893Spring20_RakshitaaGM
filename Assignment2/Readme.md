@@ -12,7 +12,8 @@ The straightline and turn function were called four times to achieve this. It fi
 it so, it moves in a straightline with a linear velocity of 0.2 for sometime until the while condition (which checks whether the 
 distance travelled is less than 2) is satisfied and then it takes a turn of 90 degrees which has another while loop to give it a limit.
 
-Screenshot:/home/rakshitaagm/git_ws/AuE893Spring20_RakshitaaGM/catkin_ws/square.png
+![image](https://user-images.githubusercontent.com/59737146/118004491-814f2700-b317-11eb-9477-636fd32e46db.png)
+
 
 Square_closedloop.py
 
