@@ -1,10 +1,7 @@
 Hello,
 
-I am Rakshitaa Geetha Mohan from India. I am pursuing Graduate studies at Clemson University International Center of Automotive Research. I did my Undergraduate studies in Mechanical Engineering at National Institute of Technology-Tiruchirappalli, India.
+I am Rakshitaa Geetha Mohan from India. I am a recent Automotive Engineering Graduate student from Clemson University - International Center for Automotive Research. I did my Undergraduate studies in Mechanical Engineering at National Institute of Technology-Tiruchirappalli, India.
 
-My field of interest is Autonomous vehicles. I am interested in controls and coding.I have experience in coding in C, C++, MATLAB. 
+My field of interest is Autonomous vehicles. I am interested in Motion planning and controls .I have experience in coding in C, C++, MATLAB. 
 
-As Autonomy is my field, I also have to learn coding in Python and ROS. 
-To facilitate that, I have taken a course called, Autonomy Science and Systems. 
-I have created this Repository to store my Assignment files and other files related to that.
-
+This Repository contains the assignment and project files that were done in the course Autonomy Science and Systems (AuE 8930) in Spring '20.
