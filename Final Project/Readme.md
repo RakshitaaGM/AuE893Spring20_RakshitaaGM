@@ -11,7 +11,8 @@ Important notes:
 Task 1: Wall following and Obstacle avoidance
 Contributors: Rakshitaa Geetha Mohan and Rushikesh Kharade
 Code Implementation: The lidar scan values were used for this purpose. The difference between the average of the lidar scan values on the left side and right side were used to calculate the error. The error along with a controller gain value (in this case, 1.8) was used to give the steer required for the bot. Lidar distance value at 0 degree was also taken to take the obstacle in the front into account. The error value can never be exactly zero for the bot to go straight, therefore, a range of 0.1 was taken buffer.   
- ![image](https://user-images.githubusercontent.com/59737146/118009053-b52c4b80-b31b-11eb-9e73-e0ed01d798da.png)
+ ![image](https://user-images.githubusercontent.com/59737146/118009053-b52c4b80-b31b-11eb-9e73-e0ed01d798da.png) ![image](https://user-images.githubusercontent.com/59737146/118009256-ea389e00-b31b-11eb-9600-7c15d4d2a878.png)
+
 
 
 Task 2: Line following and Stop sign detection
