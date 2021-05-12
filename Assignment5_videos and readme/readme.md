@@ -25,6 +25,8 @@ Step 5:rosrun image_transport republish compressed in:=raspicam_node/image raw o
 Step 6:roslaunch apriltag_ros continuous_detection.launch
 Step 7:rqt_image_view - This command is used to view the video feed of the camera. Make sure that it has been changed to the right topic which is: tag_detection_image
 
+![image](https://user-images.githubusercontent.com/59737146/118006461-451cc600-b319-11eb-8972-5695a4640a9f.png)
+
 NOTE:
 Do not connect and run the bot on cell phone's mobile data because it did not work. 
 The line follower was implemented in real world and was made to follow white line. There were lot of problems, because there were times when there was white light reflected off the floor or any shiny surface which the bot detected and changed its course of movement.
